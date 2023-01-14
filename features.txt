@@ -2,6 +2,7 @@ Web Features
 - Login
 - Register
 - Add Edit
+- Fitur Toko
 - User Role
 - Akses Role
 - Payment
