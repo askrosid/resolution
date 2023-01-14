@@ -3,3 +3,4 @@ ask Resolutions
 - Buy Server
 - Design Web
 - Develop Web
+- Deploy
