@@ -3,3 +3,7 @@ Web Features
 - Register
 - Add Edit
 - Fitur Toko
+- User Role
+- Akses Role
+- Payment
+- Withdraw
