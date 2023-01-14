@@ -2,3 +2,4 @@ Web Features
 - Login
 - Register
 - Add Edit
+- User Role
